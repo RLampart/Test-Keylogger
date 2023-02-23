@@ -1,5 +1,4 @@
-//Rahiem Lampart
-//620147103
+
 #include <stdio.h>
 #include <stdlib.h>
 
